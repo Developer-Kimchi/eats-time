@@ -1,7 +1,7 @@
 # eats-time
 it's time - project - eats time
 
-<h1>인구감소에 따른 대학교 통합 커뮤니티 서비스 - 'Wegether'</h1>
+<h1>유통기한 임박 상품 거래 사이트 - 'eatsTime'</h1>
 
 
 <h2>1. 기획 의도</h2>
